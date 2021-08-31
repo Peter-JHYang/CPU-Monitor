@@ -1,0 +1,10 @@
+D:\C#\CPU_catch\CPU_catch\bin\Debug\CPU_catch.exe.config
+D:\C#\CPU_catch\CPU_catch\bin\Debug\CPU_catch.exe
+D:\C#\CPU_catch\CPU_catch\bin\Debug\CPU_catch.pdb
+D:\C#\CPU_catch\CPU_catch\obj\Debug\CPU_catch.Form1.resources
+D:\C#\CPU_catch\CPU_catch\obj\Debug\CPU_catch.Properties.Resources.resources
+D:\C#\CPU_catch\CPU_catch\obj\Debug\CPU_catch.csproj.GenerateResource.cache
+D:\C#\CPU_catch\CPU_catch\obj\Debug\CPU_catch.csproj.CoreCompileInputs.cache
+D:\C#\CPU_catch\CPU_catch\obj\Debug\CPU_catch.exe
+D:\C#\CPU_catch\CPU_catch\obj\Debug\CPU_catch.pdb
+D:\C#\CPU_catch\CPU_catch\obj\Debug\CPU_catch.csproj.AssemblyReference.cache
